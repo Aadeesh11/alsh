@@ -30,7 +30,7 @@ It will read commands line by line from the file and execute them serially.
 
 PS:
 ### OVERWRITE Path using:
-```alsh> Path <dir1> <dir2>```
+```alsh> path <dir1> <dir2>```
 
 originally path is set to /bin, which is a set of directories to look in, for the executables of the command you type in the shell.
 
